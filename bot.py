@@ -11,7 +11,7 @@ START_TEXT = "Hai {}\n\nI am Auto Request Accept Bot With Working For All Channe
 
 API_ID = int(env.get('API_ID',"14356452"))
 API_HASH = env.get('API_HASH',"cac21249a0c6373a1b742afb8dbc9cb7")
-BOT_TOKEN = env.get('BOT_TOKEN',")
+BOT_TOKEN = env.get('BOT_TOKEN',"6704921667:AAGKp6AJSmEcGUKiX4Jhg_2xlPO3YBHqGMc")
 DB_URL = env.get('DB_URL',"mongodb+srv://Nandesha:alabal18@cluster0.6qjsxnq.mongodb.net/?retryWrites=true&w=majority")
 ADMINS = int(env.get('ADMINS',"5720092781"))
 
